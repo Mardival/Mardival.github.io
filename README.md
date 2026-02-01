@@ -1,2 +1,2 @@
-# Mardival..github.io
+# Mardival.github.io
 [first versions @ 2026]
