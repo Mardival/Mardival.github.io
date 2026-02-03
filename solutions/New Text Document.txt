@@ -1,7 +1,0 @@
-	
-	Crear formularios y estilo = HTML-CSS	
-	Validar en el lado del usuario = JQuery	
-	
-	Validar en el lado del servidor y enviar a la BD = PHP MySQL	
-	Archivos para el logueo = PHP-
-	Login y registro: Validar con PHP (servidor) y enviar a la BD	
